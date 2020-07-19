@@ -158,5 +158,4 @@ def ing():
     ps = float(input("What is your Ps: "))
     res = pm / ps
     print(res)
-    ing()
 ing()
